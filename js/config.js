@@ -12,8 +12,8 @@ const PASSWORD_CONFIG = {
 
 // 网站信息配置
 const SITE_CONFIG = {
-    name: 'LibreTV',
-    url: 'https://libretv.is-an.org',
+    name: 'ysxhTV',
+    url: 'https://ys.yxshnas.xyz',
     description: '免费在线视频搜索与观看平台',
     logo: 'https://images.icon-icons.com/38/PNG/512/retrotv_5520.png',
     version: '1.0.3'
@@ -32,6 +32,10 @@ const API_SITES = {
         name: '非凡影视',
         detail: 'http://ffzy5.tv',
         filterAdRule: '#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:6.666667,[\\s\\S]*?#EXT-X-DISCONTINUITY'
+    },
+    tyyszy: {
+        api: 'https://okzyw.cc',
+        name: 'OK资源',
     },
     tyyszy: {
         api: 'https://tyyszy.com',
