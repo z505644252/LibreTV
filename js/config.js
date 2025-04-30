@@ -33,7 +33,7 @@ const API_SITES = {
         detail: 'http://ffzy5.tv',
         filterAdRule: '#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:6.666667,[\\s\\S]*?#EXT-X-DISCONTINUITY'
     },
-    tyyszy: {
+    okyszy: {
         api: 'https://okzyw.cc',
         name: 'OK资源',
     },
