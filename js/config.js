@@ -15,7 +15,7 @@ const SITE_CONFIG = {
     name: 'yxshTV',
     url: 'https://ys.yxshnas.xyz',
     description: '免费在线视频搜索与观看平台',
-    logo: './image/retrotv_5520.png',
+    logo: 'image/logo.png',
     version: '1.0.3'
 };
 
