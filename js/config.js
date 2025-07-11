@@ -22,6 +22,10 @@ const SITE_CONFIG = {
 
 // API站点配置
 const API_SITES = {
+    maotai: {
+         api: 'https://caiji.maotaizy.cc/api.php/provide/vod',
+         name: '茅台资源',
+     },
     dyttzy: {
         api: 'http://caiji.dyttzyapi.com/api.php/provide/vod',
         name: '电影天堂资源',
@@ -39,10 +43,6 @@ const API_SITES = {
         api: 'https://tyyszy.com/api.php/provide/vod',
         name: '天涯资源',
     },
-    // xiaomaomi: {
-    //     api: 'https://zy.xiaomaomi.cc/api.php/provide/vod',
-    //     name: '小猫咪资源',
-    // },
     ffzy: {
         api: 'http://ffzy5.tv/api.php/provide/vod',
         name: '非凡影视',
